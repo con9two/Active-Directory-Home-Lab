@@ -5,8 +5,8 @@ The objective of this lab was to create a Active Directory Home Lab and add user
 
 ### Tools Used
 Virtual Box,
-Windows 19 server vm,
-Windows 10 vm,
+Windows 19 server Vm,
+Windows 10 Vm,
 Powershell
 
 Steps:
@@ -25,6 +25,7 @@ Generated 1000 random users to Active Directory using a Powershell script.
 
 
 
-
+Logging in to one of the random user accounts on the Windows 10 Vm and showing the that it is connected the the same IP. 
+![2f1a7c718807ef18bfc8a6151e9df2cf](https://github.com/con9two/Active-Directory-Home-Lab/assets/163804401/b02b1a68-272c-4c03-839b-4f800a495216)
 
 
